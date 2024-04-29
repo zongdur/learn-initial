@@ -6,7 +6,6 @@
       {
         "id": "0e02385b53713cb4",
         "type": "tabs",
-        "dimension": 71.83098591549296,
         "children": [
           {
             "id": "34aad7cbbf84be02",
@@ -18,26 +17,7 @@
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "0b339e511d918bd9"
-          }
-        ]
-      },
-      {
-        "id": "f81b746c03ad5592",
-        "type": "tabs",
-        "dimension": 28.169014084507044,
-        "children": [
-          {
-            "id": "ae58c98b290069e1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Linux/常用命令.md"
-              }
-            },
-            "group": "0b339e511d918bd9"
+            }
           }
         ]
       }
@@ -89,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "51969f88e07d32db",
@@ -107,7 +86,7 @@
               "type": "backlink",
               "state": {
                 "file": "Linux/常用命令.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -154,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ae58c98b290069e1",
+  "active": "34aad7cbbf84be02",
   "lastOpenFiles": [
     "手撕代码/2.反转链表.md",
     "手撕代码/1.判断链表是否存在环.md",
