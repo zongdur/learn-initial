@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "45b789cce0b94f74",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e02385b53713cb4",
+        "type": "tabs",
+        "dimension": 71.83098591549296,
+        "children": [
+          {
+            "id": "34aad7cbbf84be02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/常用命令.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "0b339e511d918bd9"
+          }
+        ]
+      },
+      {
+        "id": "f81b746c03ad5592",
+        "type": "tabs",
+        "dimension": 28.169014084507044,
+        "children": [
+          {
+            "id": "ae58c98b290069e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/常用命令.md"
+              }
+            },
+            "group": "0b339e511d918bd9"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bab5f905be576da",
+    "type": "split",
+    "children": [
+      {
+        "id": "c718aa452e206fe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbdb19a501ce0f7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3fc62ed9863f3b1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ea02eb28574bfb3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "51969f88e07d32db",
+    "type": "split",
+    "children": [
+      {
+        "id": "214cd336052ba511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fc775d7f43bdc85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/常用命令.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "87195cca4e510ea9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linux/常用命令.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe7b076dfceb53d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a7f7c0769edee88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linux/常用命令.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ae58c98b290069e1",
+  "lastOpenFiles": [
+    "手撕代码/2.反转链表.md",
+    "手撕代码/1.判断链表是否存在环.md",
+    "Pasted image 20240306151659.png",
+    "Pasted image 20231213194621.png",
+    "note.md",
+    "Linux/常用命令.md",
+    "Linux/日期英文.md",
+    "面试经历/石墨文档.md",
+    "面试经历/税友软件集团 -杭州-业务测试岗-3.21.md",
+    "面试经历/武汉中科通达.md",
+    "MySql/sql子查询.md",
+    "MySql/基础.md",
+    "MySql/关键字段.md",
+    "软件测试/01.md",
+    "软件测试/测试用例.md",
+    "软件测试/定位元素.md",
+    "软件测试/概念.md",
+    "软件测试/基础知识.md",
+    "软件测试/项目.md",
+    "软件测试/selenium+junit.md",
+    "软件测试/LoadRunner.md",
+    "软件测试/junit常用注释及其作用.md",
+    "软件测试/总复习.md",
+    "软件测试/引入依赖注意.md",
+    "软件测试/性能测试.md",
+    "面经/测试开发/测试用例.md",
+    "面经/测试开发/测开面经.md",
+    "面经/测试开发/自我介绍.md",
+    "面经/测试开发",
+    "面经",
+    "手撕代码",
+    "面试经历",
+    "Linux",
+    "简历制作",
+    "数据结构",
+    "Pasted image 20240306224016.png",
+    "Pasted image 20240306222804.png",
+    "git",
+    "MySql",
+    "未命名.canvas",
+    "EEup"
+  ]
+}
