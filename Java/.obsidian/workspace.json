@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/常用命令.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -146,14 +144,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "34aad7cbbf84be02",
+  "active": "bbdb19a501ce0f7d",
   "lastOpenFiles": [
+    "Linux/常用命令.md",
+    "未命名.md",
     "手撕代码/2.反转链表.md",
     "手撕代码/1.判断链表是否存在环.md",
     "Pasted image 20240306151659.png",
     "Pasted image 20231213194621.png",
     "note.md",
-    "Linux/常用命令.md",
     "Linux/日期英文.md",
     "面试经历/石墨文档.md",
     "面试经历/税友软件集团 -杭州-业务测试岗-3.21.md",
@@ -175,7 +174,6 @@
     "软件测试/性能测试.md",
     "面经/测试开发/测试用例.md",
     "面经/测试开发/测开面经.md",
-    "面经/测试开发/自我介绍.md",
     "面经/测试开发",
     "面经",
     "手撕代码",
